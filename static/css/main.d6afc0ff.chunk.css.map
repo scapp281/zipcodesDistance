@@ -1,0 +1,1 @@
+{"version":3,"sources":["MainComponent.css"],"names":[],"mappings":"AAAA,IACI,iBACJ,CAEA,OACI,SACJ","file":"main.d6afc0ff.chunk.css","sourcesContent":["div {\r\n    text-align: center;\r\n}\r\n\r\n#error{\r\n    color: red;\r\n}"]}

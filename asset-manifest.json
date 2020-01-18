@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/zipcodesDistance/static/css/main.d6afc0ff.chunk.css",
+    "main.js": "/zipcodesDistance/static/js/main.af5a1b22.chunk.js",
+    "main.js.map": "/zipcodesDistance/static/js/main.af5a1b22.chunk.js.map",
+    "runtime-main.js": "/zipcodesDistance/static/js/runtime-main.dd9f875d.js",
+    "runtime-main.js.map": "/zipcodesDistance/static/js/runtime-main.dd9f875d.js.map",
+    "static/js/2.0e768a17.chunk.js": "/zipcodesDistance/static/js/2.0e768a17.chunk.js",
+    "static/js/2.0e768a17.chunk.js.map": "/zipcodesDistance/static/js/2.0e768a17.chunk.js.map",
+    "index.html": "/zipcodesDistance/index.html",
+    "precache-manifest.e8a2844e2c26bcd1fae0b41bcde9e46e.js": "/zipcodesDistance/precache-manifest.e8a2844e2c26bcd1fae0b41bcde9e46e.js",
+    "service-worker.js": "/zipcodesDistance/service-worker.js",
+    "static/css/main.d6afc0ff.chunk.css.map": "/zipcodesDistance/static/css/main.d6afc0ff.chunk.css.map",
+    "static/js/2.0e768a17.chunk.js.LICENSE": "/zipcodesDistance/static/js/2.0e768a17.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd9f875d.js",
+    "static/js/2.0e768a17.chunk.js",
+    "static/css/main.d6afc0ff.chunk.css",
+    "static/js/main.af5a1b22.chunk.js"
+  ]
+}
