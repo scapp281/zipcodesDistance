@@ -31,15 +31,15 @@ class DisplayComponent extends React.Component {
         let theta = Math.acos(costha);
         let degtoRad = theta * (Math.PI / 180);
         let km = (6378.14) * degtoRad;
-        let mi = km * 0.62137;
+        let mi = km * 0.62137119223;
 
         return mi;
     }
     render() {
         return (
             <div>
-                <p>The distance between {this.props.data[0] || "zipcode 1"}  and {this.props.data[1] || "zipcode 2 "}
-                    is {this.calculateDistance() || 0} mile(s).</p>
+                <p>The distance between {this.props.data[0] || "zipcode 1"}  and {this.props.data[1] || "zipcode 2"}
+                    is {this.calculateDistance()} mile(s).</p>
             </div>
         );
     }
