@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/zipcodesDistance/precache-manifest.e8a2844e2c26bcd1fae0b41bcde9e46e.js"
+  "/zipcodesDistance/precache-manifest.aa14966e1746767acc19a39656563d8f.js"
 );
 
 self.addEventListener('message', (event) => {
