@@ -39,7 +39,7 @@ class DisplayComponent extends React.Component {
         return (
             <div>
                 <p>The distance between {this.props.data[0] || "zipcode 1"}  and {this.props.data[1] || "zipcode 2 "}
-                    is {this.calculateDistance()} mile(s).</p>
+                    is {this.calculateDistance() || 0} mile(s).</p>
             </div>
         );
     }
